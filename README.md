@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Anirudra Gupta 👋
+# Hi there, I am ANIRUDRA GUPTA 👋
 
 ### AI/ML & Data Science | B.Tech CSE @ MediCaps University, Indore (2024–2028)
 
@@ -131,7 +131,7 @@
 ### 🎓 Education
 
 **B.Tech, Computer Science & Engineering** — MediCaps University, Indore (2024–2028)
-- CGPA: **8.86 / 10**
+- CGPA: **8.73 / 10**
 
 **Senior Secondary (CBSE)** — School of Excellence, Dwarka, New Delhi
 - Scored 87% · Discipline Head & Sports Captain · Zonal Kabaddi Winner
