@@ -1,169 +1,216 @@
-<div align="center">
+<!--
+Profile README for Anirudra Gupta
+Theme: dark, smooth, neon, recruiter-friendly
+-->
 
-# Hi there, I am ANIRUDRA GUPTA 👋
-
-### AI/ML & Data Science | B.Tech CSE @ MediCaps University, Indore (2024–2028)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudra-gupta-158579306)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gupta.anirudras@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ANIRUDRAGUPTA07)
-
-</div>
-
----
-
-### 🧭 About Me
-
-- 🎓 B.Tech CSE undergraduate — **CGPA 8.73/10**, MediCaps University, Indore
-- 🤖 **Google-certified AI/ML intern** with hands-on experience building end-to-end ML pipelines and interactive data dashboards
-- 🏆 **Patent filed** — Smart Nano-robot for Autonomous Gene Editing
-- 🔭 Currently building a **Jarvis-style AI voice assistant** in Python using the ElevenLabs Conversational AI SDK
-- 🎯 Actively building a project portfolio targeting **Data Analyst, Data Scientist, and AI/ML Intern** roles, with longer-term sights on **FAANG, quant firms (Jane Street, Citadel, Optiver)**, and research programs (**DAAD, EPFL, MITACS**)
-- 🧑‍💻 Operations & Management Executive — **Google Developer Groups on Campus (GDGoC)**; 
-
----
-
-### 🛠️ Technical Skills
-
-**Languages**
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Anirudra%20Gupta&fontSize=46&animation=twinkling&fontColor=7dd3fc&color=0:020617,100:0f172a" alt="header" />
 </p>
 
-**ML & Data Libraries**
-<p align="left">
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7dd3fc&center=true&vCenter=true&width=980&lines=Data+Scientist+%7C+AI%2FML+Engineer+%7C+B.Tech+CSE+3rd+Year;Python+%7C+Pandas+%7C+ML+%7C+PostgreSQL+%7C+Power+BI;Building+predictive+models%2C+dashboards%2C+and+AI-driven+products" alt="typing svg" />
 </p>
 
-**Databases**
-<p align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-7dd3fc?style=for-the-badge&logo=target&logoColor=white" alt="open to work" />
+  <img src="https://komarev.com/ghpvc/?username=ANIRUDRAGUPTA07&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/ANIRUDRAGUPTA07?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="followers" />
 </p>
 
-**Analytics & Visualization**
-<p align="left">
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img alt="Excel" src="https://img.shields.io/badge/-MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+<p align="center">
+  <img src="./assets/anirudra-3d-portrait.png" alt="3D portrait of Anirudra Gupta" width="420" />
 </p>
 
-**Web / Deployment**
-<p align="left">
-  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="48%" valign="top">
 
-**Tools & Platforms**
-<p align="left">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+```ts
+const whoIAm = {
+  title: "B.Tech CSE 3rd Year Student at MediCaps University",
+  professionalRole: "Data Scientist",
+  stack: [
+    "Python",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "Seaborn",
+    "Machine Learning",
+    "PostgreSQL",
+    "DBMS",
+    "OS",
+    "DSA in C++",
+    "Google Cloud",
+    "Microsoft Azure",
+    "Microsoft Fabric",
+    "C++",
+    "R"
+  ],
+  launchedProjects: [
+    {
+      name: "Corporate Revenue & KPI Performance Dashboard",
+      impact: "Revenue, margin, and KPI forecasting dashboard built with SQL, Pandas, Power BI, Excel, Streamlit, and ML"
+    },
+    {
+      name: "FIFA World Cup 2026 Match Predictor",
+      impact: "Statistical match predictor using Dixon-Coles style modeling, Monte Carlo simulation, and Streamlit"
+    },
+    {
+      name: "Restaurant Business Intelligence & SQL Analytics",
+      impact: "Restaurant analytics system for demand patterns, cohort insights, and revenue decision-making"
+    }
+  ],
+  certifications: [
+    "Python Libraries for Data Science — SimpliLearn",
+    "Machine Learning using Python — SimpliLearn",
+    "R Programming for Beginners — SimpliLearn",
+    "Google Cloud Data Analytics Certificate — Google",
+    "Deloitte Data Analytics Job Simulation — Forage"
+  ],
+  status: "Open to work",
+  openTo: ["Data Scientist", "AI/ML Engineer", "Data Analyst", "SDE"],
+  highlights: [
+    "Google Gemini Student Ambassador 2026",
+    "UK Patent Grantee",
+    "Published Co-Author",
+    "MediCaps University CSE student"
+  ]
+};
+```
 
----
-
-### 📌 Featured Projects
-
-#### 📊 [Student Performance Analytics Dashboard](https://github.com/ANIRUDRAGUPTA07) — 2025
-`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Streamlit`
-- Performed end-to-end EDA on a 1,000+ record student academic dataset, identifying key performance drivers like parental education level, weekly study hours, and test preparation completion
-- Engineered features and trained a Logistic Regression classifier predicting pass/fail outcomes at **82% test accuracy**
-- Built a multi-section Streamlit dashboard with grade-distribution histograms, subject-wise heatmaps, and attendance-vs-score scatter plots
-- Deployed on Streamlit Cloud with live filtering by gender, parental education, and lunch type
-
-#### 📈 [Sales Analytics Dashboard](https://github.com/ANIRUDRAGUPTA07) — 2025
-`Python` `Pandas` `Matplotlib` `Seaborn` `Power BI` `MS Excel`
-- Conducted EDA on a 50,000-row retail sales dataset — cleaned missing values, parsed dates, derived month-over-month growth metrics
-- Built a dynamic Power BI dashboard with 8+ KPI cards (Total Revenue, AOV, YoY Growth), monthly trend lines, regional heatmaps, and category drill-throughs
-- Automated the data cleaning/transformation pipeline in Python, enabling one-click refresh in Power BI and cutting manual report prep time
-- Surfaced the top-3 revenue categories and two underperforming regions to inform targeted business decisions
-
-#### 🤖 Jarvis AI Voice Assistant — 🚧 In Progress
-`Python` `ElevenLabs Conversational AI SDK`
-- Building a conversational, voice-driven AI assistant with real-time speech interaction as a personal agentic-AI project
-
----
-
-### 💼 Experience & Internships
-
-**AI-ML Virtual Internship** — AICTE + EduSkills + Google for Developers · *Jan–Mar 2026*
-- Completed a 10-week intensive program covering supervised/unsupervised learning, model building, and evaluation — awarded **Outstanding Grade**
-- Built and validated ML models with Python and Scikit-learn; hands-on labs in classification, regression, and clustering pipelines
-
-**Trainee Intern** — MII Developer's Community, MediCaps University · *Mar 2026–Present*
-- Selected through competitive interview into a 50+ member developer community; contributing to development initiatives and peer-learning sessions
-
-**Campus Catalyst** — Mentor Me · *Jun–Aug 2025*
-- Coordinated cross-functional team activities, improving event execution efficiency across multiple on-campus programs
-
----
-
-### 🏆 Hackathons & Competitions
-
-- **AI-Powered Recommendation System for Local Businesses** — DAVV Indore Hackathon 2025: built a personalized recommendation engine using Python and collaborative filtering, improving simulated user engagement by **30%**
-- **Team Captain** — Gen AI Exchange Hackathon 2025: led strategy, task delegation, and final presentation
-
----
-
-### 🌟 Leadership & Achievements
-
-- 🧩 Operations & Management Executive — Google Developer Groups on Campus (GDGoC), MediCaps University (2024–2025)
-- ✍️ Content Executive — MAASA (MediCaps Athletics & Sports Association)
-- 🏐 Core Organizing Member — AIU West Zone Kabaddi Tournament (2025–26)
-- 🎭 Mr. Moonstone Runner-Up — MediCaps University Cultural Fest 2025
-- 🥇 Represented MediCaps University — AIU Football Tournament (2024–2026)
-- 🔬 Patent Filed — Smart Nano-robot for Autonomous Gene Editing
-
----
-
-### 🎓 Education
-
-**B.Tech, Computer Science & Engineering** — MediCaps University, Indore (2024–2028)
-- CGPA: **8.73 / 10**
-
-**Senior Secondary (CBSE)** — School of Excellence, Dwarka, New Delhi
-- Scored 87% · Discipline Head & Sports Captain · Zonal Kabaddi Winner
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANIRUDRAGUPTA07&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDRAGUPTA07&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDRAGUPTA07&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANIRUDRAGUPTA07/ANIRUDRAGUPTA07/output/github-snake-dark.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ANIRUDRAGUPTA07/ANIRUDRAGUPTA07/output/github-snake.svg">
-</picture>
-
----
+    </td>
+    <td width="52%" valign="top">
 
 <div align="center">
 
-📫 Reach me at **gupta.anirudras@gmail.com** or on **[LinkedIn](https://linkedin.com/in/anirudra-gupta-158579306)**
-
-⭐️ From [ANIRUDRAGUPTA07](https://github.com/ANIRUDRAGUPTA07)
+<img src="https://github-readme-stats.vercel.app/api?username=ANIRUDRAGUPTA07&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc&border_radius=16&hide_rank=false" alt="github stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDRAGUPTA07&layout=compact&theme=nord&title_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="top languages" />
 
 </div>
+
+> **Career focus:** Data Science, Machine Learning, analytics, and AI products.  
+> **Style:** clean execution, visual storytelling, measurable outcomes.
+
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
+
+### Corporate Revenue & KPI Performance Dashboard
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDRAGUPTA07&repo=corporate-revenue-kpi-performance-dashboard&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="pin card 1" />
+</p>
+
+| Layer | Technology |
+|---|---|
+| Data | SQL, Pandas |
+| Analytics | EDA, KPI reporting, trend analysis |
+| ML | Linear Regression forecasting |
+| Visualization | Power BI, Excel, Matplotlib, Seaborn, Plotly |
+| App | Streamlit |
+
+**Code:** https://github.com/ANIRUDRAGUPTA07/corporate-revenue-kpi-performance-dashboard
+
+### FIFA World Cup 2026 Match Predictor
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDRAGUPTA07&repo=fifa-world-cup-2026-match-predictor&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="pin card 2" />
+</p>
+
+| Layer | Technology |
+|---|---|
+| Data | NumPy, SciPy |
+| Modeling | Dixon-Coles style prediction, weighted optimization |
+| Simulation | Monte Carlo simulation |
+| Visualization | Streamlit |
+| Evaluation | Log-loss, Brier score, out-of-sample accuracy |
+
+**Code:** https://github.com/ANIRUDRAGUPTA07/fifa-world-cup-2026-match-predictor
+
+### Restaurant Business Intelligence & SQL Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDRAGUPTA07&repo=restaurant-business-intelligence-sql-analytics&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="pin card 3" />
+</p>
+
+| Layer | Technology |
+|---|---|
+| Data | SQL, Pandas, Excel |
+| Analytics | Cohort analysis, menu performance, demand patterns |
+| SQL | Window functions, CTEs, subqueries, aggregations, joins |
+| Visualization | Tableau, Matplotlib |
+| Business Use | Revenue trends, staffing, menu decisions |
+
+**Code:** https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,r" />
+</p>
+
+### Data / ML / Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib,postgresql,mysql,streamlit" />
+</p>
+
+### Cloud / Infra / Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,azure,git,github,vscode" />
+</p>
+
+### Reporting / Platform
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0f172a?style=for-the-badge&logo=microsoft&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/DBMS-0f172a?style=for-the-badge&logo=databricks&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/OS-0f172a?style=for-the-badge&logo=windows&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/DSA%20in%20C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=7dd3fc" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANIRUDRAGUPTA07&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc&hide_border=false" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDRAGUPTA07&layout=compact&theme=nord&title_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ANIRUDRAGUPTA07&theme=nord&hide_border=false&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ANIRUDRAGUPTA07&theme=onestar&no-frame=true&no-bg=true&margin-w=8&title=Commits,Stars,PullRequest,Reviews,Followers,Repositories" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANIRUDRAGUPTA07&theme=react-dark&bg_color=020617&color=e5e7eb&line=7dd3fc&point=7dd3fc&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+## Achievements & Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini%20Student%20Ambassador%202026-Selected-7dd3fc?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/UK%20Patent%20Grantee-Autonomous%20Nano--Robot-0f172a?style=for-the-badge&logo=patreon&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/Published%20Co--Author-CRISPR--Cas9%20Review-0f172a?style=for-the-badge&logo=readthedocs&logoColor=7dd3fc" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Internshala%20Student%20Partner-Remote-0f172a?style=for-the-badge&logo=internshala&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/MII%20Developer's%20Community-Trainee%20Intern-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Virtual%20Intern-Completed-0f172a?style=for-the-badge&logo=googlecloud&logoColor=7dd3fc" />
+</p>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anirudra-gupta-158579306"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gupta.anirudras@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
+  <a href="https://github.com/ANIRUDRAGUPTA07"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" /></a>
+  <a href="./Anirudra_Resume1(5).pdf"><img src="https://img.shields.io/badge/Resume-PDF-0f172a?style=for-the-badge&logo=adobeacrobatreader&logoColor=7dd3fc" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=7dd3fc&color=0:020617,100:0f172a&animation=twinkling" alt="footer" />
+</p>
