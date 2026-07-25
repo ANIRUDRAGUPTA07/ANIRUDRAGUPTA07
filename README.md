@@ -14,12 +14,12 @@
 
 ### 🧭 About Me
 
-- 🎓 B.Tech CSE undergraduate — **CGPA 8.86/10**, MediCaps University, Indore
+- 🎓 B.Tech CSE undergraduate — **CGPA 8.73/10**, MediCaps University, Indore
 - 🤖 **Google-certified AI/ML intern** with hands-on experience building end-to-end ML pipelines and interactive data dashboards
 - 🏆 **Patent filed** — Smart Nano-robot for Autonomous Gene Editing
 - 🔭 Currently building a **Jarvis-style AI voice assistant** in Python using the ElevenLabs Conversational AI SDK
 - 🎯 Actively building a project portfolio targeting **Data Analyst, Data Scientist, and AI/ML Intern** roles, with longer-term sights on **FAANG, quant firms (Jane Street, Citadel, Optiver)**, and research programs (**DAAD, EPFL, MITACS**)
-- 🧑‍💻 Operations & Management Executive — **Google Developer Groups on Campus (GDGoC)**; also active with **GFG Campus Mantri**
+- 🧑‍💻 Operations & Management Executive — **Google Developer Groups on Campus (GDGoC)**; 
 
 ---
 
