@@ -1,10 +1,11 @@
-<!--
-Profile README for Anirudra Gupta
-Theme: dark, smooth, neon, recruiter-friendly
--->
+<!-- Jet-black space theme version -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Anirudra%20Gupta&fontSize=46&animation=twinkling&fontColor=7dd3fc&color=0:020617,100:0f172a" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Anirudra%20Gupta&fontSize=46&animation=twinkling&fontColor=7dd3fc&color=0:000000,100:020617" alt="header" />
+</p>
+
+<p align="center">
+  <img src="./assets/hero-space.jpg" alt="Anirudra Gupta in space theme" width="900" />
 </p>
 
 <p align="center">
@@ -17,13 +18,7 @@ Theme: dark, smooth, neon, recruiter-friendly
   <img src="https://img.shields.io/github/followers/ANIRUDRAGUPTA07?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0f172a" alt="followers" />
 </p>
 
-<p align="center">
-  <img src="./assets/anirudra-3d-portrait.png" alt="3D portrait of Anirudra Gupta" width="420" />
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="48%" valign="top">
+## Who I Am
 
 ```ts
 const whoIAm = {
@@ -78,30 +73,11 @@ const whoIAm = {
 };
 ```
 
-    </td>
-    <td width="52%" valign="top">
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ANIRUDRAGUPTA07&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc&border_radius=16&hide_rank=false" alt="github stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDRAGUPTA07&layout=compact&theme=nord&title_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="top languages" />
-
-</div>
-
-> **Career focus:** Data Science, Machine Learning, analytics, and AI products.  
-> **Style:** clean execution, visual storytelling, measurable outcomes.
-
-    </td>
-  </tr>
-</table>
-
 ## Featured Projects
 
 ### Corporate Revenue & KPI Performance Dashboard
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDRAGUPTA07&repo=corporate-revenue-kpi-performance-dashboard&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="pin card 1" />
-</p>
+Built with SQL, Pandas, Power BI, Excel, Streamlit, and linear-regression forecasting.  
+Focus areas: KPI tracking, revenue trends, customer acquisition cost, and stakeholder reporting.
 
 | Layer | Technology |
 |---|---|
@@ -111,12 +87,9 @@ const whoIAm = {
 | Visualization | Power BI, Excel, Matplotlib, Seaborn, Plotly |
 | App | Streamlit |
 
-**Code:** https://github.com/ANIRUDRAGUPTA07/corporate-revenue-kpi-performance-dashboard
-
 ### FIFA World Cup 2026 Match Predictor
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDRAGUPTA07&repo=fifa-world-cup-2026-match-predictor&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="pin card 2" />
-</p>
+Built with NumPy, SciPy, Monte Carlo simulation, and Streamlit.  
+Focus areas: statistical forecasting, weighted optimization, and calibration checks.
 
 | Layer | Technology |
 |---|---|
@@ -126,12 +99,9 @@ const whoIAm = {
 | Visualization | Streamlit |
 | Evaluation | Log-loss, Brier score, out-of-sample accuracy |
 
-**Code:** https://github.com/ANIRUDRAGUPTA07/fifa-world-cup-2026-match-predictor
-
 ### Restaurant Business Intelligence & SQL Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANIRUDRAGUPTA07&repo=restaurant-business-intelligence-sql-analytics&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=e5e7eb&bg_color=020617&border_color=7dd3fc" alt="pin card 3" />
-</p>
+Built for restaurant operations analysis using SQL, Pandas, Excel, Tableau, and Matplotlib.  
+Focus areas: demand patterns, cohort insights, menu performance, and revenue decisions.
 
 | Layer | Technology |
 |---|---|
@@ -140,8 +110,6 @@ const whoIAm = {
 | SQL | Window functions, CTEs, subqueries, aggregations, joins |
 | Visualization | Tableau, Matplotlib |
 | Business Use | Revenue trends, staffing, menu decisions |
-
-**Code:** https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics
 
 ## Tech Stack
 
@@ -208,9 +176,8 @@ const whoIAm = {
   <a href="https://www.linkedin.com/in/anirudra-gupta-158579306"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gupta.anirudras@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=7dd3fc" /></a>
   <a href="https://github.com/ANIRUDRAGUPTA07"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" /></a>
-  <a href="./Anirudra_Resume1(5).pdf"><img src="https://img.shields.io/badge/Resume-PDF-0f172a?style=for-the-badge&logo=adobeacrobatreader&logoColor=7dd3fc" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=7dd3fc&color=0:020617,100:0f172a&animation=twinkling" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=7dd3fc&color=0:000000,100:020617&animation=twinkling" alt="footer" />
 </p>
