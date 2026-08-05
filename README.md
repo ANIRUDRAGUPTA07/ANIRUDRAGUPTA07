@@ -96,7 +96,7 @@
 - Ran a 10,000-iteration Monte Carlo tournament simulation across a 48-team, 12-group bracket to estimate title, final, and semi-final probabilities
 - Backtested the model out-of-sample against real 2026 World Cup results, achieving 63.3% outcome accuracy (38/60 matches) with tracked log-loss and Brier score calibration metrics
 
-#### 🤖 [Restaurant Business Intelligence & SQL Analytics](https://github.com/ANIRUDRAGUPTA07) — 2026
+#### 🤖 (https://github.com/ANIRUDRAGUPTA07](https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics.git)) — 2026
 `SQL` `Python` `Pandas` `Excel` `Matplotlib` `Tableau`
 - Designed and queried a normalized relational database of restaurant operations (orders, menus, customers, revenue) using intermediate-to-advanced SQL — window functions, CTEs, subqueries, and aggregations
 - Performed EDA in Python/Pandas and Excel (Pivot Tables, VLOOKUP) to surface top-selling items, peak-hour demand patterns, and customer cohort retention metrics; visualized trends with Matplotlib
