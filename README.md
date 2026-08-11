@@ -16,9 +16,6 @@
 <a href="mailto:gupta.anirudras@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="./Anirudra_Gupta_Resume.pdf">
-<img src="https://img.shields.io/badge/Resume-View%20Resume-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ANIRUDRAGUPTA07&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -37,20 +34,6 @@
 * 🔭 Building projects across **Data Science, Machine Learning, Generative AI, RAG and Statistical Modeling**
 * 🧑‍💻 **Technical Head** — Google Developer Groups On Campus, MediCaps University
 * 🎯 Interested in **Data Science, AI/ML Engineering, Data Analytics and Intelligent AI Systems**
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-<a href="./Anirudra_Gupta_Resume.pdf">
-<img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-2C5364?style=for-the-badge"/>
-</a>
-
-</div>
-
-> 
 
 ---
 
@@ -118,9 +101,11 @@
 
 **SQL • Python • Pandas • Power BI • Tableau**
 
+<div>
 <a href="https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 
 * Designed and analysed a structured restaurant database using **CTEs, window functions, joins, subqueries and aggregations**.
 * Performed data cleaning, transformation and EDA using **Python and Pandas**.
@@ -133,9 +118,11 @@
 
 **Python • LangChain • Gemini API • FAISS • Streamlit • RAG**
 
+<div>
 <a href="https://github.com/ANIRUDRAGUPTA07/PDF-Q-A-Assistant">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 
 * Developed a **Retrieval-Augmented Generation (RAG)** pipeline for querying uploaded technical PDFs.
 * Implemented **document chunking, embeddings and FAISS vector similarity search**.
@@ -148,9 +135,11 @@
 
 **Python • NumPy • SciPy • Streamlit • Dixon-Coles • Monte Carlo Simulation**
 
+<div>
 <a href="https://github.com/ANIRUDRAGUPTA07/world-cup-prediction-py">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</div>
 
 * Built a **Dixon-Coles football prediction model** using weighted maximum-likelihood optimization.
 * Trained using **50,000+ historical international matches** with recency weighting and temporal separation.
@@ -235,7 +224,7 @@
 * Microsoft Fabric Analytics Engineer Associate
 * Microsoft Azure AI Essentials
 * Google Cloud Data Analytics Certificate
-* SimpliLearn — Machine Learning with Python
+* Simplilearn — Machine Learning with Python
 * Forage — TATA GenAI Job Simulation
 * Forage — Deloitte Data Analytics Job Simulation
 
