@@ -50,7 +50,7 @@
 
 </div>
 
-> **Note:** `Anirudra_Gupta_Resume.pdf` should be uploaded directly into this profile repository.
+> 
 
 ---
 
