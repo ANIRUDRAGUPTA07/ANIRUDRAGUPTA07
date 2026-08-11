@@ -15,11 +15,11 @@
 ### 🧭 About Me
 
 - 🎓 B.Tech CSE undergraduate — **CGPA 8.73/10**, MediCaps University, Indore
-- 🤖 **Google Gemini Student Ambassador 2026** and AI/ML virtual intern with hands-on experience in model building, evaluation, and cloud-based ML workflows
-- 🏆 **Patent filed** — Smart Nano-robot for Autonomous Gene Editing
-- 🔭 Currently building a **statistics-first FIFA World Cup 2026 match predictor** and expanding my portfolio in analytics and AI
+- 🤖 **Google Gemini Student Ambassador 2026**, with hands-on experience across AI/ML and Data Science virtual internships in model building, evaluation, and cloud-based ML workflows
+- 🏆 **UK Patent Grantee** — Smart Nano-robot for Autonomous Gene Editing
+- 🔭 Currently building a **statistics-first FIFA World Cup 2026 match predictor** and a **RAG-based PDF Q&A assistant**, expanding my portfolio in analytics and applied AI
 - 🎯 Actively building a project portfolio targeting **Data Analyst, Data Scientist, and AI/ML Intern** roles, with longer-term sights on **FAANG**, quant firms (**Jane Street, Citadel, Optiver**), and research programs (**DAAD, EPFL, MITACS**)
-- 🧑‍💻 Operations & Management Executive — **Google Developer Groups on Campus (GDGoC)**
+- 🧑‍💻 **Technical Head** — Google Developer Groups on Campus (GDGoC), MediCaps University
 
 ---
 
@@ -30,19 +30,22 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
 </p>
 
-**ML & Data Libraries**
+**ML, LLM & Data Libraries**
 <p align="left">
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
 </p>
 
@@ -96,30 +99,48 @@
 - Ran a 10,000-iteration Monte Carlo tournament simulation across a 48-team, 12-group bracket to estimate title, final, and semi-final probabilities
 - Backtested the model out-of-sample against real 2026 World Cup results, achieving 63.3% outcome accuracy (38/60 matches) with tracked log-loss and Brier score calibration metrics
 
-#### 🤖 (https://github.com/ANIRUDRAGUPTA07](https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics.git)) — 2026
-`SQL` `Python` `Pandas` `Excel` `Matplotlib` `Tableau`
-- Designed and queried a normalized relational database of restaurant operations (orders, menus, customers, revenue) using intermediate-to-advanced SQL — window functions, CTEs, subqueries, and aggregations
-- Performed EDA in Python/Pandas and Excel (Pivot Tables, VLOOKUP) to surface top-selling items, peak-hour demand patterns, and customer cohort retention metrics; visualized trends with Matplotlib
+#### 🧠 [PDF Document Q&A Assistant](https://github.com/ANIRUDRAGUPTA07) — 2026
+`Python` `LangChain` `Gemini API` `FAISS` `Streamlit`
+- Built a RAG-based PDF Q&A application using LangChain, the Gemini API, and FAISS to retrieve relevant information from uploaded academic and technical documents
+- Implemented document ingestion, text chunking, embeddings, and vector similarity search to generate context-based responses with source/page references
+- Developed a Streamlit interface for PDF uploads and interactive question-answering, including a fallback for queries not supported by the retrieved document context
+
+#### 🍽️ [Restaurant Business Intelligence & SQL Analytics](https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics.git) — 2026
+`SQL` `Python` `Pandas` `Excel` `Tableau`
+- Designed and analysed a structured restaurant database using SQL — CTEs, window functions, subqueries, joins, aggregations, and conditional logic — to derive sales, revenue, product, and customer insights
+- Performed data cleaning, transformation, aggregation, and EDA using Python and Pandas to surface top-selling items, peak-hour demand patterns, and customer cohort retention metrics
 - Built an interactive Tableau dashboard with revenue trends, menu-performance heatmaps, and customer segmentation visuals to drive data-informed menu and staffing decisions
 
 ---
 
 ### 💼 Experience & Internships
 
-**Google Gemini Student Ambassador 2026** — Google · *Jun 2026–Present*
-- Selected as a Google Gemini Ambassador (GID: 10362) to drive awareness and adoption of Google’s Gemini AI ecosystem across university campuses
-- Evangelize Gemini API capabilities, Google AI tools, and responsible AI practices to student developer communities; facilitate workshops and hands-on sessions on Generative AI
-- Collaborate with Google’s developer relations network to execute campus programs, technical demos, and community-building initiatives aligned with Google for Developers goals
+**AI for Sustainability Virtual Intern** — 1M1B × AICTE × IBM SkillsBuild · *Jul 2026–Present*
+- Gained hands-on exposure to Machine Learning, LLMs, IBM Granite Models, RAG, and Agentic AI through guided learning, IBM Labs, and mentor-led sessions
+- Explored practical applications of AI in sustainability — climate action, clean energy, waste reduction, biodiversity, and sustainable cities — while learning to develop AI-based solutions for real-world challenges
+- Developed and presented a guided AI sustainability project using Python, prompt engineering, and document retrieval, supported by technical documentation and a GitHub repository
 
-**Internshala Student Partner (ISP)** — Internshala · *Jun 2026–Present*
-- Lead campus outreach and digital marketing campaigns to promote Internshala trainings and internships; drove measurable increase in student registrations through peer advocacy and brand engagement
+**Machine Learning & Data Science Virtual Intern** — AICTE × EduSkills · *Jun 2026–Present*
+- Completed an 8-week ML & Data Science internship with practical experience in Python, NumPy, Pandas, Scikit-learn, SQL, NLP, Flask, and Power BI
+- Applied data preprocessing, EDA, feature engineering, regression, classification, model evaluation, clustering, and introductory NLP concepts including TF-IDF and Naive Bayes
+- Developed a Customer Sentiment Analysis capstone involving text classification, SQL-based data handling, Flask API integration, and Power BI dashboard reporting
 
-**Trainee Intern** — MII Developer’s Community, MediCaps University · *Mar 2026–Present*
-- Selected through competitive interview into a 50+ member developer community; contribute to full-stack development initiatives and peer-learning sessions
+**Google Gemini Student Ambassador 2026 (GID: 10362)** — Google · *Jun 2026–Present*
+- Selected as one of Google's Gemini Ambassadors to drive awareness and adoption of the Gemini AI ecosystem across university campuses
+- Evangelize Gemini API capabilities and responsible AI practices to student developer communities; facilitate hands-on Generative AI workshops
+- Collaborate with Google's developer relations network to execute campus programs and technical demos aligned with Google for Developers goals
+
+**Internshala Student Partner (ISP)** — Internshala · *Jun 2026–Jul 2026*
+- Led campus outreach and digital marketing campaigns promoting Internshala trainings and internships
+- Drove student registration growth through peer advocacy, brand engagement, and structured campus sessions
+
+**Trainee Intern** — MII Developer's Community, MediCaps University · *Mar 2026–May 2026*
+- Selected through competitive interview into a 50+ member developer community
+- Contributed to full-stack development and Python development initiatives and expert-learning sessions
 
 **AI/ML Virtual Intern** — AICTE + EduSkills + Google for Developers · *Jan 2026–Mar 2026*
-- Completed a 10-week intensive program on supervised/unsupervised learning, model building, and evaluation; awarded **Outstanding Grade**
-- Engineered and validated ML classification, regression, and clustering models in Python and Scikit-learn on Google Cloud Platform and Vertex AI
+- Completed a 10-week Google AI-ML internship with practical exposure to TensorFlow, neural networks, CNNs, computer vision, object detection, and image classification through structured technical modules and assessments
+- Worked with TensorFlow Lite and image-based ML concepts to explore custom object-detection and image-classification models, including applications such as product image search and mobile computer-vision integration
 
 **Campus Catalyst** — Mentor Me · *Jun 2025–Aug 2025*
 - Coordinated cross-functional team activities, improving event execution efficiency across multiple on-campus programs; managed scheduling and stakeholder communications
@@ -128,20 +149,21 @@
 
 ### 🏆 Hackathons & Competitions
 
-- **AI-Powered Recommendation System for Local Businesses** — DAVV Indore Hackathon 2026: built a personalized recommendation engine using Python and AI/ML APIs; improved simulated user engagement by **30%**
-- **Team Captain** — GenAI Exchange Hackathon 2026: led a cross-functional team to design and deliver a Generative AI-powered prototype; integrated Python, third-party APIs, and modern AI frameworks
+- **AI-Powered Recommendation System for Local Businesses** — DAVV Indore Hackathon 2026: engineered a personalized recommendation engine using Python and AI/ML APIs; improved simulated user engagement by **30%**
+- **Team Captain** — GenAI Exchange Hackathon 2026: led a cross-functional team to design and deliver a Generative AI-powered prototype; presented architecture to mentors and judges
 
 ---
 
 ### 🌟 Leadership & Achievements
 
-- 🧩 Google Developer Groups On Campus — **Operations Executive** (Jan 2024 – Jan 2025)
-- ✍️ MAASA — **Content Executive & Core Member** (Jan 2024 – Jan 2025)
+- 🧩 Google Developer Groups On Campus, MediCaps University — **Technical Head** (2026–Present), leading technical direction of chapter initiatives and developer programs
+- 🧩 Google Developer Groups On Campus — **Operations Executive** (Jan 2024 – Jan 2025); ran Google Facilitator Program 2024 (500+ students) and Google Arcade 2025
+- 🏐 Medicaps Athletics and Sports Association (MAASA) — **Core Member / Team Lead** (2025–Present); led Champions League 2025 & 2026, organized Cyclo-thon 2025 (200+ athletes) and AIU National Sports Tournaments (1,200+ participants, 100+ teams)
 - 🏐 AIU West Zone Kabaddi Tournament — **Core Organizing Member** (Jan 2025 – Jan 2026)
 - 🎭 Mr. Moonstone Runner-Up 2025 — MediCaps University Cultural Fest
-- 🥇 AIU Football Tournament Representative — MediCaps University (2024–2026)
-- 🔬 Patent Filed — *Smart Nano-robot for Autonomous Gene Editing*
-- 📚 Published Co-Author — *CRISPR-Cas9 nanotechnology review*
+- 🥇 AIU Football Tournament Representative — MediCaps University (2024–Present)
+- 🔬 UK Patent Grantee — *Smart Nano-robot for Autonomous Gene Editing* (2025)
+- 📚 Published Co-Author — *Smart Nano-Robot for Autonomous Gene Editing*, nanotechnology-enabled CRISPR-Cas9 gene editing (Mar 2025)
 
 ---
 
@@ -152,6 +174,16 @@
 
 **Senior Secondary (CBSE)** — School of Excellence, Dwarka, New Delhi
 - Scored 87%
+
+---
+
+### 📜 Certifications
+
+- Microsoft Fabric Analytics Engineer Associate
+- Microsoft Azure AI Essentials
+- Google Cloud Data Analytics Certificate
+- SimpliLearn: Machine Learning using Python, Python for Data Science, R Programming
+- Forage Job Simulations: TATA GenAI & Deloitte Data Analytics
 
 ---
 
