@@ -1,218 +1,346 @@
 <div align="center">
 
-# Hi there, I am ANIRUDRA GUPTA 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=ANIRUDRA%20GUPTA&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=60&descSize=18" width="100%"/>
 
-### AI/ML & Data Science | B.Tech CSE @ MediCaps University, Indore (2024–2028)
+### 👋 Hi, I'm Anirudra Gupta
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudra-gupta-158579306)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gupta.anirudras@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ANIRUDRAGUPTA07)
+**AI/ML & Data Science | B.Tech CSE @ MediCaps University, Indore**
+
+<p>
+  <a href="https://linkedin.com/in/anirudra-gupta-158579306">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gupta.anirudras@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ANIRUDRAGUPTA07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ANIRUDRAGUPTA07&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-### 🧭 About Me
+## 🧭 About Me
 
-- 🎓 B.Tech CSE undergraduate — **CGPA 8.73/10**, MediCaps University, Indore
-- 🤖 **Google Gemini Student Ambassador 2026**, with hands-on experience across AI/ML and Data Science virtual internships in model building, evaluation, and cloud-based ML workflows
-- 🏆 **UK Patent Grantee** — Smart Nano-robot for Autonomous Gene Editing
-- 🔭 Currently building a **statistics-first FIFA World Cup 2026 match predictor** and a **RAG-based PDF Q&A assistant**, expanding my portfolio in analytics and applied AI
-- 🎯 Actively building a project portfolio targeting **Data Analyst, Data Scientist, and AI/ML Intern** roles, with longer-term sights on **FAANG**, quant firms (**Jane Street, Citadel, Optiver**), and research programs (**DAAD, EPFL, MITACS**)
-- 🧑‍💻 **Technical Head** — Google Developer Groups on Campus (GDGoC), MediCaps University
+* 🎓 B.Tech Computer Science & Engineering undergraduate — **CGPA 8.73/10**
+* 🤖 **Google Gemini Student Ambassador 2026**
+* 🏆 **UK Patent Grantee** — *Smart Nano-robot for Autonomous Gene Editing*
+* 🔭 Building projects across **Data Science, Machine Learning, Generative AI, RAG and Statistical Modeling**
+* 🧑‍💻 **Technical Head** — Google Developer Groups on Campus, MediCaps University
+* 📊 Interested in **Data Science, AI/ML Engineering, Analytics and Intelligent AI Systems**
+* 🎯 Currently preparing for **Data Scientist / AI-ML Engineer / Data Analyst** internships and graduate roles
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-**Languages**
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" />
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-**ML, LLM & Data Libraries**
-<p align="left">
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat" />
-  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+### 🤖 Machine Learning, LLM & Data
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-**Databases**
-<p align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-**Analytics & Visualization**
-<p align="left">
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/-MS%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+### 📊 Analytics & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-**Web / Deployment**
-<p align="left">
-  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
+### 🌐 Web & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-**Tools & Platforms**
-<p align="left">
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img alt="Vertex AI" src="https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/-Microsoft%20Fabric-742774?style=flat&logo=microsoft&logoColor=white" />
-</p>
+### ☁️ Tools & Platforms
 
----
-
-### 📌 Featured Projects
-
-#### 📊 [Corporate Revenue & KPI Performance Dashboard](https://github.com/ANIRUDRAGUPTA07) — 2026
-`Python` `SQL` `Power BI` `Excel` `ML`
-- Queried and consolidated multi-quarter revenue, expense, and profitability data using SQL and Pandas; performed EDA to track core business KPIs including Revenue Growth, Gross Margin, and Customer Acquisition Cost
-- Built a Power BI and Excel KPI dashboard with revenue trendlines, YoY growth indicators, and department-wise cost breakdowns for stakeholder reporting
-- Developed a Linear Regression forecasting model in Scikit-learn to project next-quarter revenue from historical trends; visualized results with Matplotlib, Seaborn, and Plotly
-- Deployed an interactive Streamlit application enabling stakeholders to dynamically filter KPIs by department, quarter, and region
-
-#### 📈 [FIFA World Cup 2026 Match Predictor](https://github.com/ANIRUDRAGUPTA07) — 2026
-`Python` `NumPy` `SciPy` `Streamlit` `Monte Carlo Simulation`
-- Built a statistical Dixon-Coles goal-prediction model, fitting attack/defence ratings via weighted maximum-likelihood optimization (L-BFGS-B) on 50,000+ historical international matches
-- Engineered a data pipeline with recency-based exponential decay and competition-tier weighting to prevent data leakage, strictly excluding all 2026 World Cup fixtures from training
-- Ran a 10,000-iteration Monte Carlo tournament simulation across a 48-team, 12-group bracket to estimate title, final, and semi-final probabilities
-- Backtested the model out-of-sample against real 2026 World Cup results, achieving 63.3% outcome accuracy (38/60 matches) with tracked log-loss and Brier score calibration metrics
-
-#### 🧠 [PDF Document Q&A Assistant](https://github.com/ANIRUDRAGUPTA07) — 2026
-`Python` `LangChain` `Gemini API` `FAISS` `Streamlit`
-- Built a RAG-based PDF Q&A application using LangChain, the Gemini API, and FAISS to retrieve relevant information from uploaded academic and technical documents
-- Implemented document ingestion, text chunking, embeddings, and vector similarity search to generate context-based responses with source/page references
-- Developed a Streamlit interface for PDF uploads and interactive question-answering, including a fallback for queries not supported by the retrieved document context
-
-#### 🍽️ [Restaurant Business Intelligence & SQL Analytics](https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics.git) — 2026
-`SQL` `Python` `Pandas` `Excel` `Tableau`
-- Designed and analysed a structured restaurant database using SQL — CTEs, window functions, subqueries, joins, aggregations, and conditional logic — to derive sales, revenue, product, and customer insights
-- Performed data cleaning, transformation, aggregation, and EDA using Python and Pandas to surface top-selling items, peak-hour demand patterns, and customer cohort retention metrics
-- Built an interactive Tableau dashboard with revenue trends, menu-performance heatmaps, and customer segmentation visuals to drive data-informed menu and staffing decisions
-
----
-
-### 💼 Experience & Internships
-
-**AI for Sustainability Virtual Intern** — 1M1B × AICTE × IBM SkillsBuild · *Jul 2026–Present*
-- Gained hands-on exposure to Machine Learning, LLMs, IBM Granite Models, RAG, and Agentic AI through guided learning, IBM Labs, and mentor-led sessions
-- Explored practical applications of AI in sustainability — climate action, clean energy, waste reduction, biodiversity, and sustainable cities — while learning to develop AI-based solutions for real-world challenges
-- Developed and presented a guided AI sustainability project using Python, prompt engineering, and document retrieval, supported by technical documentation and a GitHub repository
-
-**Machine Learning & Data Science Virtual Intern** — AICTE × EduSkills · *Jun 2026–Present*
-- Completed an 8-week ML & Data Science internship with practical experience in Python, NumPy, Pandas, Scikit-learn, SQL, NLP, Flask, and Power BI
-- Applied data preprocessing, EDA, feature engineering, regression, classification, model evaluation, clustering, and introductory NLP concepts including TF-IDF and Naive Bayes
-- Developed a Customer Sentiment Analysis capstone involving text classification, SQL-based data handling, Flask API integration, and Power BI dashboard reporting
-
-**Google Gemini Student Ambassador 2026 (GID: 10362)** — Google · *Jun 2026–Present*
-- Selected as one of Google's Gemini Ambassadors to drive awareness and adoption of the Gemini AI ecosystem across university campuses
-- Evangelize Gemini API capabilities and responsible AI practices to student developer communities; facilitate hands-on Generative AI workshops
-- Collaborate with Google's developer relations network to execute campus programs and technical demos aligned with Google for Developers goals
-
-**Internshala Student Partner (ISP)** — Internshala · *Jun 2026–Jul 2026*
-- Led campus outreach and digital marketing campaigns promoting Internshala trainings and internships
-- Drove student registration growth through peer advocacy, brand engagement, and structured campus sessions
-
-**Trainee Intern** — MII Developer's Community, MediCaps University · *Mar 2026–May 2026*
-- Selected through competitive interview into a 50+ member developer community
-- Contributed to full-stack development and Python development initiatives and expert-learning sessions
-
-**AI/ML Virtual Intern** — AICTE + EduSkills + Google for Developers · *Jan 2026–Mar 2026*
-- Completed a 10-week Google AI-ML internship with practical exposure to TensorFlow, neural networks, CNNs, computer vision, object detection, and image classification through structured technical modules and assessments
-- Worked with TensorFlow Lite and image-based ML concepts to explore custom object-detection and image-classification models, including applications such as product image search and mobile computer-vision integration
-
-**Campus Catalyst** — Mentor Me · *Jun 2025–Aug 2025*
-- Coordinated cross-functional team activities, improving event execution efficiency across multiple on-campus programs; managed scheduling and stakeholder communications
-
----
-
-### 🏆 Hackathons & Competitions
-
-- **AI-Powered Recommendation System for Local Businesses** — DAVV Indore Hackathon 2026: engineered a personalized recommendation engine using Python and AI/ML APIs; improved simulated user engagement by **30%**
-- **Team Captain** — GenAI Exchange Hackathon 2026: led a cross-functional team to design and deliver a Generative AI-powered prototype; presented architecture to mentors and judges
-
----
-
-### 🌟 Leadership & Achievements
-
-- 🧩 Google Developer Groups On Campus, MediCaps University — **Technical Head** (2026–Present), leading technical direction of chapter initiatives and developer programs
-- 🧩 Google Developer Groups On Campus — **Operations Executive** (Jan 2024 – Jan 2025); ran Google Facilitator Program 2024 (500+ students) and Google Arcade 2025
-- 🏐 Medicaps Athletics and Sports Association (MAASA) — **Core Member / Team Lead** (2025–Present); led Champions League 2025 & 2026, organized Cyclo-thon 2025 (200+ athletes) and AIU National Sports Tournaments (1,200+ participants, 100+ teams)
-- 🏐 AIU West Zone Kabaddi Tournament — **Core Organizing Member** (Jan 2025 – Jan 2026)
-- 🎭 Mr. Moonstone Runner-Up 2025 — MediCaps University Cultural Fest
-- 🥇 AIU Football Tournament Representative — MediCaps University (2024–Present)
-- 🔬 UK Patent Grantee — *Smart Nano-robot for Autonomous Gene Editing* (2025)
-- 📚 Published Co-Author — *Smart Nano-Robot for Autonomous Gene Editing*, nanotechnology-enabled CRISPR-Cas9 gene editing (Mar 2025)
-
----
-
-### 🎓 Education
-
-**B.Tech, Computer Science & Engineering** — MediCaps University, Indore (2024–2028)
-- CGPA: **8.73 / 10**
-
-**Senior Secondary (CBSE)** — School of Excellence, Dwarka, New Delhi
-- Scored 87%
-
----
-
-### 📜 Certifications
-
-- Microsoft Fabric Analytics Engineer Associate
-- Microsoft Azure AI Essentials
-- Google Cloud Data Analytics Certificate
-- SimpliLearn: Machine Learning using Python, Python for Data Science, R Programming
-- Forage Job Simulations: TATA GenAI & Deloitte Data Analytics
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANIRUDRAGUPTA07&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDRAGUPTA07&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDRAGUPTA07&layout=compact&theme=radical&hide_border=true" />
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+# 🚀 Featured Projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANIRUDRAGUPTA07/ANIRUDRAGUPTA07/output/github-snake-dark.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ANIRUDRAGUPTA07/ANIRUDRAGUPTA07/output/github-snake.svg">
-</picture>
+<div align="center">
+
+### 🍽️ Restaurant Business Intelligence & SQL Analytics
+
+**SQL • Python • Pandas • Tableau • Excel**
+
+<a href="https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-2C5364?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+> End-to-end restaurant analytics project combining **SQL business intelligence, Python EDA and dashboard visualization**.
+
+* Designed and analysed a structured restaurant database using **CTEs, window functions, subqueries, joins, aggregations and conditional logic**.
+* Performed data cleaning, transformation, aggregation and EDA using **Python and Pandas**.
+* Identified **top-selling items, peak-hour demand patterns and customer cohort retention metrics**.
+* Built interactive Tableau visualizations for **revenue trends, menu performance and customer segmentation**.
+
+**Repository:**
+https://github.com/ANIRUDRAGUPTA07/restaurant-business-intelligence-sql-analytics
 
 ---
 
 <div align="center">
 
-📫 Reach me at **gupta.anirudras@gmail.com** or on **[LinkedIn](https://linkedin.com/in/anirudra-gupta-158579306)**
+### 🧠 PDF Document Q&A Assistant
 
-⭐️ From [ANIRUDRAGUPTA07](https://github.com/ANIRUDRAGUPTA07)
+**Python • LangChain • Gemini API • FAISS • Streamlit • RAG**
+
+<a href="https://github.com/ANIRUDRAGUPTA07/PDF-Q-A-Assistant">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-203A43?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+> A **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDFs and ask questions using context retrieved directly from their documents.
+
+* Built a RAG pipeline using **LangChain, Gemini API and FAISS**.
+* Implemented **document ingestion, text chunking, embeddings and vector similarity search**.
+* Generates context-aware answers using information retrieved from uploaded documents.
+* Provides **source/page references** to improve answer traceability.
+* Developed an interactive **Streamlit** interface with fallback handling for unsupported queries.
+
+**Repository:**
+https://github.com/ANIRUDRAGUPTA07/PDF-Q-A-Assistant
+
+---
+
+<div align="center">
+
+### ⚽ FIFA World Cup 2026 Match Predictor
+
+**Python • NumPy • SciPy • Statistical Modeling • Monte Carlo Simulation • Streamlit**
+
+<a href="https://github.com/ANIRUDRAGUPTA07/world-cup-prediction-py">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-Repository-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+> A statistics-first football prediction system using **Dixon-Coles modeling, weighted maximum likelihood optimization and Monte Carlo tournament simulation**.
+
+* Built a statistical **Dixon-Coles goal prediction model** using attack and defence ratings.
+* Trained on **50,000+ historical international matches** using weighted maximum-likelihood optimization.
+* Applied **recency-based exponential decay and competition-tier weighting**.
+* Designed the pipeline to prevent data leakage by excluding 2026 World Cup fixtures from training.
+* Ran **10,000 Monte Carlo tournament simulations** across a 48-team World Cup structure.
+* Evaluated model performance using **accuracy, log-loss and Brier score calibration metrics**.
+
+**Repository:**
+https://github.com/ANIRUDRAGUPTA07/world-cup-prediction-py
+
+---
+
+## 💼 Experience & Internships
+
+### 🤖 AI for Sustainability Virtual Intern
+
+**1M1B × AICTE × IBM SkillsBuild · Jul 2026–Present**
+
+* Hands-on exposure to **Machine Learning, LLMs, IBM Granite Models, RAG and Agentic AI**.
+* Explored AI applications in climate action, clean energy, waste reduction, biodiversity and sustainable cities.
+* Developed and presented a guided AI sustainability project using **Python, prompt engineering and document retrieval**.
+
+### 📊 Machine Learning & Data Science Virtual Intern
+
+**AICTE × EduSkills · Jun 2026–Present**
+
+* Practical experience with **Python, NumPy, Pandas, Scikit-learn, SQL, NLP, Flask and Power BI**.
+* Applied preprocessing, EDA, feature engineering, regression, classification, model evaluation and clustering.
+* Developed a **Customer Sentiment Analysis** capstone involving text classification, SQL, Flask API integration and Power BI.
+
+### ✨ Google Gemini Student Ambassador 2026
+
+**Google · Jun 2026–Present**
+
+* Selected as a **Google Gemini Student Ambassador** to promote Gemini AI technologies across university communities.
+* Conduct technical demonstrations and promote responsible Generative AI practices.
+* Engage with student developer communities through AI-focused learning and technical activities.
+
+### 🧑‍💻 Internshala Student Partner
+
+**Internshala · Jun 2026–Jul 2026**
+
+* Led campus outreach and digital campaigns promoting internships and technical learning opportunities.
+* Drove student engagement through peer advocacy and structured campus sessions.
+
+### 💻 Trainee Intern
+
+**MII Developer's Community, MediCaps University · Mar 2026–May 2026**
+
+* Selected through a competitive interview process.
+* Contributed to Python and full-stack development initiatives.
+* Participated in expert-led technical learning and developer community activities.
+
+### 🤖 AI/ML Virtual Intern
+
+**AICTE × EduSkills × Google for Developers · Jan 2026–Mar 2026**
+
+* Worked with **TensorFlow, neural networks, CNNs, computer vision and object detection**.
+* Explored TensorFlow Lite and image classification/object detection applications.
+
+---
+
+# 🏆 Hackathons & Competitions
+
+* 🧠 **AI-Powered Recommendation System for Local Businesses** — DAVV Indore Hackathon 2026
+  Engineered a personalized recommendation engine using Python and AI/ML APIs.
+
+* 🚀 **Team Captain — GenAI Exchange Hackathon 2026**
+  Led a cross-functional team to design and present a Generative AI-powered prototype.
+
+---
+
+# 🌟 Leadership & Achievements
+
+* 🧩 **Technical Head** — Google Developer Groups On Campus, MediCaps University
+* 🧩 **Operations Executive** — Google Developer Groups On Campus
+* 🏐 **Core Member / Team Lead** — MediCaps Athletics and Sports Association
+* 🏆 **Core Organizing Member** — AIU West Zone Kabaddi Tournament
+* 🎭 **Mr. Moonstone Runner-Up 2025** — MediCaps University
+* ⚽ **AIU Football Tournament Representative** — MediCaps University
+* 🔬 **UK Patent Grantee** — *Smart Nano-robot for Autonomous Gene Editing*
+* 📚 **Published Co-Author** — *Smart Nano-Robot for Autonomous Gene Editing*
+
+---
+
+# 🎓 Education
+
+### B.Tech — Computer Science & Engineering
+
+**MediCaps University, Indore · 2024–2028**
+
+**CGPA: 8.73 / 10**
+
+### Senior Secondary — CBSE
+
+**School of Excellence, Dwarka, New Delhi**
+
+**Score: 87%**
+
+---
+
+# 📜 Certifications
+
+* Microsoft Fabric Analytics Engineer Associate
+* Microsoft Azure AI Essentials
+* Google Cloud Data Analytics Certificate
+* Machine Learning using Python — Simplilearn
+* Python for Data Science — Simplilearn
+* R Programming — Simplilearn
+* TATA GenAI Job Simulation — Forage
+* Deloitte Data Analytics Job Simulation — Forage
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ANIRUDRAGUPTA07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ANIRUDRAGUPTA07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANIRUDRAGUPTA07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANIRUDRAGUPTA07/ANIRUDRAGUPTA07/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANIRUDRAGUPTA07/ANIRUDRAGUPTA07/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ANIRUDRAGUPTA07/ANIRUDRAGUPTA07/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 💡 Current Focus
+
+<div align="center">
+
+`Data Science` • `Machine Learning` • `Generative AI` • `RAG` • `LLMs` • `Statistical Modeling` • `SQL Analytics`
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="mailto:gupta.anirudras@gmail.com">
+<img src="https://img.shields.io/badge/Email-gupta.anirudras%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/anirudra-gupta-158579306">
+<img src="https://img.shields.io/badge/LinkedIn-Anirudra%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ANIRUDRAGUPTA07">
+<img src="https://img.shields.io/badge/GitHub-ANIRUDRAGUPTA07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
